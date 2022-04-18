@@ -1,4 +1,7 @@
-# CuteMessages
+# 🥪 Sandwich suggestion Generator
+
+## A website that will generate a random sandwich for you.
+
 
 Copyright (c) 2022, Angelo Curcic
 All rights reserved.
